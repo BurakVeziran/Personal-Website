@@ -1,8 +1,9 @@
 import React from "react"
 import Typewriter from "typewriter-effect"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faGithub } from "@fortawesome/free-brands-svg-icons"
+import {faGithub, faLinkedin} from "@fortawesome/free-brands-svg-icons"
 import { faLink } from "@fortawesome/free-solid-svg-icons"
+
 
 export default function PopupTerminalWindow({
   title,
@@ -23,7 +24,7 @@ export default function PopupTerminalWindow({
       }`}</span>
       <img
         className="svgIcon"
-        src={`https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/${icon}.svg`}
+        src={`https://cdn.jsdelivr.net/npm/simple-icons@v9.12.0/icons/${icon}.svg`}
         alt="Tech icon"
       />
     </li>
@@ -96,7 +97,7 @@ export default function PopupTerminalWindow({
             {popupLiveLink ? (
               <a href={popupLiveLink} target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon
-                  icon={faLink}
+                  icon={faLinkedin}
                   className="popupTerminalWindowLinkIcon"
                   size="2x"
                 />

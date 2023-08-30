@@ -9,7 +9,7 @@ popupImageSrc: "https://raw.githubusercontent.com/Kielx/anygrabber/master/assets
 popupImageAlt: "App screenshot"
 popupGithubLink: "https://github.com/Kielx/AnyGrabber"
 techIcons: [
-        "python",
+        "playwright",
       ]
 ---
 
