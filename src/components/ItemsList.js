@@ -5,7 +5,7 @@ import { useStaticQuery, graphql, Link } from "gatsby"
 import WinBox from "winbox/src/js/winbox"
 import "winbox/dist/css/winbox.min.css"
 
-import Contact from "./Contact"
+
 import PopupTerminalWindow from "../components/PopupTerminalWindow"
 
 export default function ItemsList() {
@@ -170,7 +170,7 @@ export default function ItemsList() {
           width: "70%",
         }}
       >
-        {`lrwxr-xr-x 1 kielx admin ${item.node.frontmatter.added} ${item.node.frontmatter.slug} -> `}
+        {`lrwxr-xr-x 1 admin ${item.node.frontmatter.added} ${item.node.frontmatter.slug} -> `}
         <a href={item.node.frontmatter.popupGithubLink}>
           {item.node.frontmatter.popupGithubLink}
         </a>
@@ -193,49 +193,12 @@ export default function ItemsList() {
     </li>
   ))
 
-  const contactItem = (
-    <li className="infoItem">
-      <button
-        className="popupWindowLinkButton"
-        style={{ cursor: "pointer" }}
-        onClick={() => {
-          const win = new WinBox({
-            title: "Contact me",
-            width: checkScreenWidth(),
-            height: checkScreenWidth(),
-            x: "center",
-            y: "center",
-            onfocus: function () {
-              this.removeClass("wb-no-focus")
-              this.addClass("wb-focus")
-            },
-            onblur: function () {
-              this.removeClass("wb-focus")
-              this.addClass("wb-no-focus")
-            },
-          })
-
-          ReactDOM.render(
-            React.createElement(Contact, {
-              close: () => win.close(),
-            }),
-            win.body
-          )
-        }}
-      >
-        <span role="img" aria-label="e-mail">
-          📧
-        </span>{" "}
-        /Contact
-      </button>
-    </li>
-  )
 
   const mappedItems = () => {
     return (
       <>
-        <li>→ Info:</li> {info} {contactItem} <li>→ Projects:</li>
-        {projects} <li className="miniProject">→ Mini-Projects:</li>
+        <li>→ Info:</li> {info} <li>→ Projects:</li>
+        {projects} <li className="miniProject">→ pixelArt:</li>
       </>
     )
   }
@@ -244,20 +207,9 @@ export default function ItemsList() {
     return (
       <>
         <li>→ Info:</li> {infoMobile}{" "}
-        <li className="infoItem">
-          <Link
-            className="popupWindowLinkButton"
-            style={{ cursor: "pointer" }}
-            to="/contact"
-          >
-            <span role="img" aria-label="e-mail">
-              📧
-            </span>{" "}
-            /Contact
-          </Link>
-        </li>{" "}
+        {" "}
         <li>→ Projects:</li>
-        {projectsMobile} <li className="miniProject">→ Mini-Projects:</li>
+        {projectsMobile} <li className="miniProject">→ pixelArt:</li>
       </>
     )
   }

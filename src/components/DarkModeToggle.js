@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faSun, faMoon } from "@fortawesome/free-solid-svg-icons"
 
 const DarkModeToggle = () => {
-  const [isLoaded, setIsLoaded] = useState(
+  const [isLoaded] = useState(
     typeof window !== "undefined"
       ? sessionStorage.getItem("isLoaded") || false
       : false
