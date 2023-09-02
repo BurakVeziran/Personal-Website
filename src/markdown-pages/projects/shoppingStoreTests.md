@@ -3,10 +3,10 @@ slug: "projects/shoppingStoreTests"
 nameOfClass: "projects-items"
 title: "shoppingStoreTests"
 added: "2023-09-01"
-listName: "🔍 /shoppingStoreTests"
+listName: "🏪 /shoppingStoreTests"
 video: "false"
-popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/shoppingStore.png?token=GHSAT0AAAAAACDX5RZYJAWQNZI5RFMJY24CZHSDW4A"
-popupImageAlt: "App screenshot"
+popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/shoppingStore.png"
+popupImageAlt: "Shopping Store Tests screenshot"
 popupGithubLink: "https://github.com/BurakVeziran/Shopping-Store-Playwright-Tests"
 techIcons: [
         "playwright",

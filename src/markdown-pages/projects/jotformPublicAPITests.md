@@ -5,8 +5,8 @@ title: "jotformPublicApiTests"
 added: "2023-09-01"
 listName: "💾 /jotformPublicApiTests"
 video: "false"
-popupImageSrc: "https://raw.githubusercontent.com/Kielx/Insurance-company-database/master/images/data_warehouse.png"
-popupImageAlt: "App screenshot"
+popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/jotformPublicAPITests.png"
+popupImageAlt: "Jotform Public API Tests screenshot"
 popupGithubLink: "https://github.com/BurakVeziran/Jotform-Public-API-Tests"
 techIcons: [
         "typescript",

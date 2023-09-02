@@ -3,10 +3,10 @@ slug: "projects/goldCalculator"
 nameOfClass: "projects-items"
 title: "goldCalculator"
 added: "2023-09-01"
-listName: "📸 /goldCalculator"
+listName: "🥇 /goldCalculator"
 video: "false"
-popupImageSrc: "My-Unsplash-ss.png"
-popupImageAlt: "App screenshot"
+popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/goldCalculator.png"
+popupImageAlt: "Gold Calculator screenshot"
 popupGithubLink: "https://github.com/BurakVeziran/Gold-Calculator"
 techIcons: [
         "javascript",

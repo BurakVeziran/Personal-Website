@@ -197,7 +197,7 @@ export default function ItemsList() {
   const mappedItems = () => {
     return (
       <>
-        <li>→ Info:</li> {info} <li>→ Projects:</li>
+        <li>→ info:</li> {info} <li>→ projects:</li>
         {projects} <li className="miniProject">→ pixelArt:</li>
       </>
     )
@@ -206,9 +206,9 @@ export default function ItemsList() {
   const mappedItemsMobile = () => {
     return (
       <>
-        <li>→ Info:</li> {infoMobile}{" "}
+        <li>→ info:</li> {infoMobile}{" "}
         {" "}
-        <li>→ Projects:</li>
+        <li>→ projects:</li>
         {projectsMobile} <li className="miniProject">→ pixelArt:</li>
       </>
     )
