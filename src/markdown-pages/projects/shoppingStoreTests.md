@@ -2,7 +2,7 @@
 slug: "projects/shoppingStoreTests"
 nameOfClass: "projects-items"
 title: "shoppingStoreTests"
-added: "2023-09-01"
+added: "2023-06-11"
 listName: "🏪 /shoppingStoreTests"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/shoppingStore.png"

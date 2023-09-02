@@ -2,7 +2,7 @@
 slug: "projects/goldCalculator"
 nameOfClass: "projects-items"
 title: "goldCalculator"
-added: "2023-09-01"
+added: "2021-07-21"
 listName: "🥇 /goldCalculator"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/goldCalculator.png"

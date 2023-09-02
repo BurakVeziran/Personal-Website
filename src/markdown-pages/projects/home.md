@@ -2,12 +2,12 @@
 slug: "projects/home"
 nameOfClass: "projects-items miniProjects"
 title: "Home"
-added: "2023-01-09"
+added: "2021-06-18"
 listName: "🎨 /Home"
 video: "false"
-popupImageSrc: "https://raw.githubusercontent.com/Kielx/arduino-knight-rider/master/assets/Animation.gif"
+popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/house.png"
 popupImageAlt: "Home pixel art"
-popupGithubLink: "https://github.com/Kielx/arduino-knight-rider"
+popupGithubLink: "https://github.com/BurakVeziran/Personal-Website/blob/main/static/house.png"
 techIcons: [
         "adobephotoshop",
       ]

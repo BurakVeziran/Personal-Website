@@ -6,7 +6,6 @@ title: "About me"
 popupImageSrc: "pixelProfile.png"
 popupImageAlt: "Pixel photo of myself"
 popupGithubLink: "https://github.com/BurakVeziran"
-popupLinkedinLink: "https://github.com/BurakVeziran"
 popupLiveLink: "https://www.linkedin.com/in/burakveziran/"
 techIcons: [
         "javascript",
