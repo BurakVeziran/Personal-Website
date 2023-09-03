@@ -6,10 +6,10 @@ module.exports = {
   siteMetadata: {
     title: `Burak Veziran Portfolio`,
     titleTemplate: `%s | Portfolio`,
-    description: `Terminal -command-line themed portfolio featuring projects ranging from robust Gatsby PWA's, React APPs and FullStack Web APPs utilizing cloud platforms to simple HTML, CSS and JavaScript sites.`,
+    description: `Personal website of Burak Veziran`,
     author: `@BurakVeziran`,
     url: "",
-    image: "/PortfolioSS-sm.png", // Path to your image you placed in the 'static' folder
+    image: "src/images/pixelProfile.png", // Path to your image you placed in the 'static' folder
     twitterUsername: "",
   },
   plugins: [
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Krzysztof Pantak Portfolio`,
-        short_name: `Krzysztof Pantak Portfolio`,
+        name: `Burak Veziran Portfolio`,
+        short_name: `Burak Veziran Portfolio`,
         start_url: `/`,
         background_color: `#1b2d3a`,
         theme_color: `#1b2d3a`,
