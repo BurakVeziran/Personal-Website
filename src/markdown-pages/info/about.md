@@ -13,6 +13,7 @@ techIcons: [
         "playwright",
         "cucumber",
         "postman",
+        "k6",
         "apachejmeter",
         "html5",
         "css3",
