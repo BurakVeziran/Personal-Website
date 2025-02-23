@@ -2,7 +2,7 @@
 slug: "projects/cat"
 nameOfClass: "projects-items miniProjects"
 title: "Cat"
-added: "2021-03-30"
+added: ""
 listName: "🎨 /cat"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/cat.png"

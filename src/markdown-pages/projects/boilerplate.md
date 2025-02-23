@@ -2,7 +2,7 @@
 slug: "projects/cucumberPlaywrightTypescriptBoilerplate"
 nameOfClass: "projects-items"
 title: "cucumberPlaywrightBoilerplate"
-added: "2023-08-30"
+added: ""
 video: "false"
 listName: "🍽️ /cucumberPlaywrightBoilerplate"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/boilerplate.png"

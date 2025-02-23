@@ -2,7 +2,7 @@
 slug: "projects/home"
 nameOfClass: "projects-items miniProjects"
 title: "Home"
-added: "2021-06-18"
+added: ""
 listName: "🎨 /home"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/house.png"

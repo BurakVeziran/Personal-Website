@@ -2,7 +2,7 @@
 slug: "projects/seasons"
 nameOfClass: "projects-items miniProjects"
 title: "Seasons"
-added: "2021-09-24"
+added: ""
 listName: "🎨 /seasons"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/seasons.png"

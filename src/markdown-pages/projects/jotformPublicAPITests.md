@@ -2,7 +2,7 @@
 slug: "projects/jotformPublicApiTests"
 nameOfClass: "projects-items"
 title: "jotformPublicApiTests"
-added: "2023-07-30"
+added: ""
 listName: "💾 /jotformPublicApiTests"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/jotformPublicAPITests.png"

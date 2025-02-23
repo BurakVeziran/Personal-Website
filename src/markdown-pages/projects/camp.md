@@ -2,7 +2,7 @@
 slug: "projects/camp"
 nameOfClass: "projects-items miniProjects"
 title: "Camp"
-added: "2021-05-14"
+added: ""
 listName: "🎨 /camp"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/camp.png"

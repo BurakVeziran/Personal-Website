@@ -2,7 +2,7 @@
 slug: "projects/coffeeShop"
 nameOfClass: "projects-items miniProjects"
 title: "coffeeShop"
-added: "2021-04-23"
+added: ""
 listName: "🎨 /coffeeShop"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/coffeeShop.png"

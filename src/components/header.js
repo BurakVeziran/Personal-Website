@@ -26,10 +26,10 @@ const Header = ({ siteTitle }) => {
               }}
               onInit={typewriter => {
                 typewriter
-                  .typeString("Software Quality Assurance Specialist")
+                  .typeString("Software Quality Assurance Engineer")
                   .pauseFor(2500)
                   .deleteAll()
-                  .typeString("Test Automation Learner")
+                  .typeString("Test Automation Creator")
                   .pauseFor(2500)
                   .deleteAll()
                   .typeString("Burak Veziran")

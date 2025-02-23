@@ -2,7 +2,7 @@
 slug: "projects/girlOnRoof"
 nameOfClass: "projects-items miniProjects"
 title: "girlOnRoof"
-added: "2021-10-16"
+added: ""
 listName: "🎨 /girlOnRoof"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/girlOnRoof.png"
