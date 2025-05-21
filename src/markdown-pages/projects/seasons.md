@@ -5,7 +5,7 @@ title: "Seasons"
 added: ""
 listName: "🎨 /seasons"
 video: "false"
-popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/seasons.png"
+popupImageSrc: "seasons.png"
 popupImageAlt: "Seasons pixel art"
 popupGithubLink: "https://github.com/BurakVeziran/Personal-Website/blob/main/static/seasons.png"
 techIcons: [

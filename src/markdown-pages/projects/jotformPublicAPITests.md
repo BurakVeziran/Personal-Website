@@ -5,7 +5,7 @@ title: "jotformPublicApiTests"
 added: ""
 listName: "💾 /jotformPublicApiTests"
 video: "false"
-popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/jotformPublicAPITests.png"
+popupImageSrc: "jotformPublicAPITests.png"
 popupImageAlt: "Jotform Public API Tests screenshot"
 popupGithubLink: "https://github.com/BurakVeziran/Jotform-Public-API-Tests"
 techIcons: [

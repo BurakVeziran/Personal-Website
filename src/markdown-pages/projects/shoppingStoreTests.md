@@ -5,7 +5,7 @@ title: "shoppingStoreTests"
 added: ""
 listName: "🏪 /shoppingStoreTests"
 video: "false"
-popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/shoppingStore.png"
+popupImageSrc: "shoppingStore.png"
 popupImageAlt: "Shopping Store Tests screenshot"
 popupGithubLink: "https://github.com/BurakVeziran/Shopping-Store-Playwright-Tests"
 techIcons: [

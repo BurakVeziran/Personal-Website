@@ -5,7 +5,7 @@ title: "cucumberPlaywrightBoilerplate"
 added: ""
 video: "false"
 listName: "🍽️ /cucumberPlaywrightBoilerplate"
-popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/boilerplate.png"
+popupImageSrc: "boilerplate.png"
 popupImageAlt: "Boilerplate screenshot"
 popupGithubLink: "https://github.com/BurakVeziran/Cucumber-Playwright-Typescript-Boilerplate"
 techIcons: [

@@ -5,7 +5,7 @@ title: "goldCalculator"
 added: ""
 listName: "🥇 /goldCalculator"
 video: "false"
-popupImageSrc: "https://raw.githubusercontent.com/BurakVeziran/Personal-Website/main/static/goldCalculator.png"
+popupImageSrc: "goldCalculator.png"
 popupImageAlt: "Gold Calculator screenshot"
 popupGithubLink: "https://github.com/BurakVeziran/Gold-Calculator"
 techIcons: [
